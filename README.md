@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-My favorite changes...
+This is my new markdown file.
 
 ### Markdown
 
